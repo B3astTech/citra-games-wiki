@@ -1,0 +1,9 @@
+title = "Nano Assault EX"
+description = "Stop the deadly Nanostray virus from spreading and contaminating civilization in Nano Assault EX, a fast-paced action shooter set within a visually stunning cellular system that leaps off the screen in full 3D."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000047B00"
+region = "usa"
+release_date = "2013-03-07"
